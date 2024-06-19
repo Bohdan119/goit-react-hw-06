@@ -79,7 +79,6 @@ const ContactForm = () => {
             </button>
           </div>
         </Form>
-
     </Formik>
   );
 };

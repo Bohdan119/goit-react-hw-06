@@ -20,4 +20,4 @@ export const store = configureStore({
       },
     }),
 });
-export const persisStor = persistStore(store);
+export const persistor = persistStore(store);
